@@ -1,0 +1,29 @@
+__pycache__/
+.DS_Store
+
+# environement virtuel
+.idea/
+*.iml
+
+# fichier de données
+data/
+
+# resultat d'entrainement
+result/
+
+#point modelle
+*.pth
+
+#fichiers de configuration locaux
+config_local.py
+
+# pour l'editeur
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.bak
+*.swp
+*.sublime-*
+*.tmp
+*.log
